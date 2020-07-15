@@ -12,7 +12,7 @@ Running on docker might be considerably slower
 pip install -r requirements
 python wsgi.py
 
-Go to link http://127.0.0.1:8000
+Go to link http://127.0.0.1:8000  (Runs better on Chrome than Firefox)
 
 #Sample video files
 sample video http://mirrors.standaloneinstaller.com/video-sample/small.avi
